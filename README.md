@@ -5,9 +5,7 @@
 
 ### Getting Start
 #### 環境変数を設定
-```
-OPENAI_API_KEY=<Your Key>
-```
+```echo "OPENAI_API_KEY=<Your Key>" > .env```
 
 #### 仮想環境で構築
 ```docker-compose build --build-arg QUESTION="<北京オリンピックについての聞きたい質問>"```
