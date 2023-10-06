@@ -11,7 +11,7 @@
 ```docker-compose build --build-arg QUESTION="<北京オリンピックについての聞きたい質問>"```
 
 #### 実行
-```docker up```
+```docker-compose up```
 
 ### Reference
 [🐙🐱 参考リポジトリ](https://github.com/openai/openai-cookbook/tree/main/apps/embeddings-playground)<br>
